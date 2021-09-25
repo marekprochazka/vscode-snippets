@@ -1,0 +1,111 @@
+{
+	"In": {
+		"prefix": "in",
+		"body": [
+		  "$\\in$"
+		],
+		"description": "In"
+	  },
+	  "P matrix": {
+		"prefix": "pmatrix",
+		"body": [
+		  "$",
+		  "  \\begin{pmatrix}",
+		  "  $1",
+		  "  \\end{pmatrix}",
+		  "$"
+		],
+		"description": "P matrix"
+	  },
+	  "Sum": {
+		"prefix": "sum",
+		"body": [
+		  "$\\displaystyle\\sum_{$1=$2}^{$3} $4$"
+		],
+		"description": "Sum"
+	  },
+	  "Neg": {
+		"prefix": "neg",
+		"body": [
+		  "$\\neg $1$"
+		],
+		"description": "Neg"
+	  },
+	  "Wedge": {
+		"prefix": "wedge",
+		"body": [
+		  "$\\wedge$"
+		],
+		"description": "Wedge"
+	  },
+	  "Vee": {
+		"prefix": "vee",
+		"body": [
+		  "$\\vee$"
+		],
+		"description": "Vee"
+	  },
+	  "Noequals": {
+		"prefix": "neq",
+		"body": [
+		  "$\\neq$"
+		],
+		"description": "Noequals"
+	  },
+	  "Forall": {
+		"prefix": "forall",
+		"body": [
+		  "$\\forall $1$"
+		],
+		"description": "Forall"
+	  },
+	  "Exists": {
+		"prefix": "exists",
+		"body": [
+		  "$\\exists$"
+		],
+		"description": "Exists"
+	  },
+	  "Var nothing": {
+		"prefix": "nth",
+		"body": [
+		  "$\\varnothing$"
+		],
+		"description": "Var nothing"
+	  },
+	  "Real": {
+		"prefix": "R",
+		"body": [
+		  "$\\R$"
+		],
+		"description": "Real"
+	  },
+	  "Natural": {
+		"prefix": "N",
+		"body": [
+		  "$\\N$"
+		],
+		"description": "Natural"
+	  },
+	  "Whole": {
+		"prefix": "Z",
+		"body": [
+		  "$\\Z$"
+		],
+		"description": "Whole"
+	  },
+	  "Racional": {
+		"prefix": "Q",
+		"body": [
+		  "$\\Q$"
+		],
+		"description": "Racional"
+	  },
+	  "Complex": {
+		"prefix": "C",
+		"body": [
+		  "$\\C$"
+		],
+		"description": "Complex"
+	  }
+}
